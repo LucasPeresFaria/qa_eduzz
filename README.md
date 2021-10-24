@@ -1,5 +1,3 @@
-# Qa Eduzz
-
 ## Exercicio 1:
 
 **Pasta**: selenium_qa
