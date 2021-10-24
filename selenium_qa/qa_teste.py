@@ -22,7 +22,6 @@ texto = browser.find_element_by_xpath('//*[@id="rso"]/div[1]/div/div/div/div/div
 
 frase = 'Vem crescer com a gente.'
 validação = frase in texto.text
-#print(f'{validação}')
 
 if(validação == True):
     print('Possui no texto a frase (Vem crescer com a gente.)')
