@@ -2,18 +2,25 @@
 
 **Pasta**: selenium_qa
 
-**Descrição**: A aplicação efetua a identificação e inserção do nome Eduzz no na navegação do Google Chrome. Em sua abertura, o programa efetua a verificação se o link contém o texto "Vem crescer com a gente.". A verificação não busca pela frase separada, podendo identificar a frase no meio de outras palavras que possam compor o link como é o caso da busca que encontra a frase "**Eduzz -** Vem crescer com a gente."
+**Descrição**: A aplicação efetua a identificação e inserção do nome Eduzz na navegação do Google Chrome. Em sua abertura, o programa efetua a verificação se o link "https://www.eduzz.com/" contém o texto "Vem crescer com a gente.". A verificação não busca pela frase separada, podendo identificar a frase no meio de outras palavras que possam compor o link como é o caso da busca que encontra a frase "**Eduzz -** Vem crescer com a gente."
 
 Na execusão foi utilizado as seguintes ferramentas:
 * Selenium
 * ChromeDriver 93.0.4577.63
 * Python 3.9.4
+* Anaconda 3
 
 ### 🎲 Instale a dependência
     $ conda install selenium
     
   * insira o arquivo executável **ChromeDriver** na pasta executável do python
     caso de exemplo: 'C:\Users\Lucas\anaconda3\'
+
+### Modifique a seguinte parte
+
+Para que a execusão fosse possível o diretório do ChromeDriver foi referenciado, no meu caso na pasta do anaconda3, mas poderá ser incluído na pasta do Python caso não tenha o Anaconda 3
+* código 12: driver = webdriver.Chrome('/Users/Lucas/anaconda3/chromedriver')
+
 
 ## Exercicio 2:
 
