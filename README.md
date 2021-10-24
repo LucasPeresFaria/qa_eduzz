@@ -1,6 +1,6 @@
 # Qa Eduzz
 
-### Pré-requisitos
+### Exercicio 1:
 
 Na execusão foi utilizado as seguintes ferramentas:
 
@@ -8,7 +8,7 @@ Exercicio 1:
 
 * Selenium
 * ChromeDriver 93.0.4577.63
-* anaconda3
+* Python 3.9.4
 
 ### 🎲 istale as segintes depencias
 # Instale as dependências
