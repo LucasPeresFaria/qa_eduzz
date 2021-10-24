@@ -20,7 +20,6 @@ browser.find_element_by_name('q').send_keys("Eduzz")
 browser.find_element_by_name('q').send_keys(Keys.RETURN)
 texto = browser.find_element_by_xpath('//*[@id="rso"]/div[1]/div/div/div/div/div/div/div[1]/a/h3')
 
-print(texto.text)
 frase = 'Vem crescer com a gente.'
 validação = frase in texto.text
 #print(f'{validação}')
