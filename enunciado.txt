@@ -1,0 +1,21 @@
+Selenium ou Cypress
+Usar o selenium/Cypress para pesquisar no google a palavra Eduzz e verificar se o resultado do site www.eduzz.com tem o texto "Vem crescer com a gente."
+
+API
+Usar a api do https://pokeapi.co/ para procurar pelo pokémon ditto
+validar se seu nome é ditto
+validar se seu número é 132
+validar se seu tipo é normal
+
+Regras
+
+Deve escolher entre usar o Cypress ou Selenium
+Pode - se usar qualquer linguagem de programação que o selenium aceite
+Para o teste de API, pode ser usado qualquer ferramenta ou linguagem.
+Faça um bom readme para conseguir rodar os seus testes
+Será avaliado o padrão de projeto
+Temos preferência por um Script escrito em python, mas pode - se usar outras linguagens
+Temos preferência por um Script que roda em máquinas Linux
+
+O fonte pode ser adicionado em algum serviço GIT e deve ser enviado um email com o link para o repositório
+O Prazo é de 48 h
