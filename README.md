@@ -29,7 +29,7 @@ Para que a execusão fosse possível o diretório do ChromeDriver foi referencia
 
 **Descrição**: O programa foi desenvolvido com input por meio de arquivo já contendo os nome de alguns Pokemons como teste. O programa efetua uma iteração com cada nome obtido do arquivo "Entrada.txt" e busca identificar se é o Pokemon DITTO. Caso não seja o programa informa que Pokemon é, descrevendo seu nome, número de identificação e o seu tipo de poder.
 
-  O programa foi desenvolvido de acordo com algumas boas práticas, utilizando funções que executam apenas uma única tarefa, e a utilização de arquivos separados entre função e a execusão principal do programa.
+  O programa foi desenvolvido de acordo com algumas boas práticas, utilizando funções que executam apenas uma única tarefa, e a utilização de arquivos separados entre a função e a execusão principal do programa.
 
 **Obs**: Dentro da pasta se encontra um vídeo curto do teste sendo efetuado em minha máquina
 
